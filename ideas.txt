@@ -1,0 +1,25 @@
+Some ideas I've had
+
+Research System:
+
+1) Basic Research Building
+  1A) Building can hold X researchers
+  1B) Researchers are bought at an increasing cost (linear)
+  1C) Research Buildings are bought to increase capacity increaseing cost (linear)
+  1D) Better research buildings are unlocked at key points
+    
+2) Mech Command/Commanders
+  2A) Mech Command is unlocked once a trigger point is reached (should be nice and early)
+  2B) Mech Command has 1 free slot for a commander
+  2C) Commanders are hired from the market, they have a purchase price and an upkeep rate
+  2D) The 1st commander is given for free (still have to pay upkeep)
+  2E) Commander Skills increase with xp earned from battles/training
+  2F) Commander skill level determines army size and other bonus
+
+
+3) Mechs (the reason we are all here)
+  3A) meow
+  3B) Mech Bays are bought for storing mechs bought from the market (we don't build our own)
+  3C) The 1st mech bay is free, after which they cost goes up (exponetial(sp?)
+
+
