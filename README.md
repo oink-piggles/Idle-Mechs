@@ -12,6 +12,7 @@ To do list:
 5) Add system to find targets to attack
 6) Add progress system to unlock stuff
 7) Add research?
+8) Add more stuff to the save/load system as it gets done
 
 Done:
 1) Buying farms/refinerys
