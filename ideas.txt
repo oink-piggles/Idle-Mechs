@@ -15,11 +15,15 @@ Research System:
   2D) The 1st commander is given for free (still have to pay upkeep)
   2E) Commander Skills increase with xp earned from battles/training
   2F) Commander skill level determines army size and other bonus
+  2G) Mech Commander Upgrades
+    2G.1) War Room - Required to do missions (doesn't need upgrading?)
+    2G.2) More Living Quarters for more commanders (exponetial cost)
+    2G.3) Training Room, Upgrades to increase max amount of training per day (exponetial cost)
 
-
-3) Mechs (the reason we are all here)
-  3A) meow
-  3B) Mech Bays are bought for storing mechs bought from the market (we don't build our own)
-  3C) The 1st mech bay is free, after which they cost goes up (exponetial(sp?)
+3) Mech Hangers/Mechs (the reason we are all here)
+  3A) Mech Hangers store mechs bought from the market
+  3B) The first mech hanger is free, after which they cost goes up (exponetial(sp?)
+  3C) Mech Hangers can be upgraded to store more mechs or more hangers can be bought to increase capacity
+  3D) Mechs
 
 
